@@ -1,2 +1,7 @@
 "Adding another file in there." 
-OK.. not his has been changed on Github.
+OK.. now this has been changed on Github.
+
+To update this on Local - I type:
+git pull origin main
+
+Adding something new in local now.
